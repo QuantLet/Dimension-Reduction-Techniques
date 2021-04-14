@@ -1,19 +1,7 @@
-Name of Quantlet: 'MANDATORY! Has to be the same as the Quantlet file, without file type ending, e.g. R,py,...'
+Name of Quantlet: 'UMAP_sim_ts'
 
-Published in: 'MANDATORY!'
+Published in: 'DEDA'
 
-Description: 'MANDATORY!'
+Description: 'Simulates time series data (AR1, sine curve, white noise) and applies the UMAP VizTech to reflect local and global structure of the data. '
 
-Keywords: 'MANDATORY! You need at least 5 keywords' 
-
-Author: 'MANDATORY'
-
-See also: 'optional: listing related Quantlets or Github code'
-
-Submitted:  'optional: e.g. 01. Jan 2019, John Doe'
-
-Datafile: 'optional: for your data sets - delete if not used'
-
-Input: 'optional'
-
-Output:  'optional'
+Keywords: 'UMAP, VizTech, AR1, Dimension Reduction, Time Series'
