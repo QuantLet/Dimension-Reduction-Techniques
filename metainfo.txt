@@ -2,6 +2,8 @@ Name of Quantlet: 'UMAP_sim_ts'
 
 Published in: 'DEDA'
 
+Author: 'Lucas Valentin Umann'
+
 Description: 'Simulates time series data (AR1, sine curve, white noise) and applies the UMAP VizTech to reflect local and global structure of the data. '
 
 Keywords: 'UMAP, VizTech, AR1, Dimension Reduction, Time Series'
